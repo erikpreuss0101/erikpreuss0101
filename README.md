@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Erik Preuss & I'm an Analytics Director at Hopper OS.
+
 <!--
 **erikpreuss0101/erikpreuss0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
